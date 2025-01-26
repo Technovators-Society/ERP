@@ -1,7 +1,7 @@
 # ERP - Full Stack Project
 
 ## Introduction
-This is a full-stack ERP implementation using the Angular framework with SASS and TypeScript. It utilizes Google Cloud Platform (GCP) services such as FireAuth, CloudSQL, and Cloud Run Functions for the backend. Testing is performed with Karma and Puppeteer, using Jasmine as the test runner on Edge.
+This is a full-stack ERP implementation using the Angular framework with SASS and TypeScript. It utilizes Google Cloud Platform (GCP) services such as FireAuth, CloudSQL, and Cloud Run Functions for the backend. Testing is performed with Karma and Puppeteer, using Jasmine as the test runner on Edge. The frontend design follows [Material Design 3](https://m3.material.io/) principles to ensure a consistent and modern look and feel.
 
 ## Prerequisites
 - Node.js
@@ -69,4 +69,3 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## License
 This project is licensed under the Apache-2.0 License - see the [LICENSE](https://github.com/Technovators-Society/ERP/blob/main/LICENSE) file for details.
-
